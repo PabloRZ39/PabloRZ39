@@ -1,16 +1,16 @@
-## Hi there 👋
+### Welcome to my profile! ✨✨
 
-<!--
-**PabloRZ39/PabloRZ39** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name's Pablo R. Zanoto, nice to meet y'all!
 
-Here are some ideas to get you started:
+Some things about me:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Studying at Tanaka 🏫
+- Bad at Math ➕
+- Trying to understand this stuff 💻
+- The world's future star ⭐
+- Favorite subjects include art, languages and social studies 📚
+- Sailor Moon fan 🌙
+- SEGA fan 🔵
+- Vocaloid fan 🎵
+
+![](https://media1.tenor.com/m/f0cP-CQTRyMAAAAC/sailor-moon.gif)
